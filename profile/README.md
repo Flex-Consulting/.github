@@ -9,11 +9,11 @@ At Flex Consulting Solutions, we strive to empower businesses to reach their ful
 
 ## Our Mission
 
-Our mission at Flex Consulting Services is to provide businesses with cutting-edge software solutions that streamline their operations, drive growth, and give them a competitive edge in their respective industries. We will achieve this through a customer-centric approach, constant innovation, and a dedication to delivering unparalleled service and support to our clients.
+Our mission at Flex Consulting Solutions is to provide businesses with cutting-edge software solutions that streamline their operations, drive growth, and give them a competitive edge in their respective industries. We will achieve this through a customer-centric approach, constant innovation, and a dedication to delivering unparalleled service and support to our clients.
 
 ## Our Goals
 
-In support of our mission, Flex Consulting Services's primary goals are to:
+In support of our mission, Flex Consulting Solution's primary goals are to:
 
 - Increase client retention and satisfaction through regular communication and ongoing support.
 - Continuously improve and expand our service offerings to meet the evolving needs of our clients.
