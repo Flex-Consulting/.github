@@ -5,7 +5,7 @@
 
 ## Our Vision
 
-At Flex Consulting Services, we strive to empower businesses to reach their full potential through innovative and customized software solutions, delivered with excellence and a commitment to client satisfaction.
+At Flex Consulting Solutions Inc., we strive to empower businesses to reach their full potential through innovative and customized software solutions, delivered with excellence and a commitment to client satisfaction.
 
 ## Our Mission
 
