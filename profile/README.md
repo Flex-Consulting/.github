@@ -1,11 +1,11 @@
-<h1>Flex Consulting Services</h1>
+<h1>Flex Consulting Solutions Inc.</h1>
 <p align="center">
   <img src="https://i.imgur.com/IasIrlT.png" width="100"/>
 </p>
 
 ## Our Vision
 
-At Flex Consulting Solutions Inc., we strive to empower businesses to reach their full potential through innovative and customized software solutions, delivered with excellence and a commitment to client satisfaction.
+At Flex Consulting Solutions, we strive to empower businesses to reach their full potential through innovative and customized software solutions, delivered with excellence and a commitment to client satisfaction.
 
 ## Our Mission
 
