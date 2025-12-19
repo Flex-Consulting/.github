@@ -1,6 +1,6 @@
 <h1>Flex Consulting Solutions Inc.</h1>
 <p align="center">
-  <img src="https://i.imgur.com/IasIrlT.png" width="100"/>
+  <img src="https://flexconsulting.ca/flex-logo-square-200x200.png" width="100"/>
 </p>
 
 ## Our Vision
